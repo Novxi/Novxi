@@ -70,7 +70,7 @@ felsefe:      "Kod, bir fikri işe yarar bir ürüne dönüştürmenin en dürü
 ### 🐍 Katkı Aktivitesi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novxi/Novxi/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Novxi/Novxi/output/github-contribution-grid-snake-dark.svg?v=4" alt="snake" />
 </p>
 
 ---

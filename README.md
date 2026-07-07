@@ -1,11 +1,11 @@
 <!-- ═══════════════ 1. TOP BANNER (embedded · animated waves) ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=6" alt="Mert Kaya — Full-Stack Web & Mobile Developer" />
+  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=7" alt="Mert Kaya — Full-Stack Web · Mobile · Desktop Developer" />
 </p>
 
 <!-- ═══════════════ 2. ANIMATED HEADLINE (embedded Poppins · soft fade) ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg?v=5" alt="Professionally online since dial-up" width="720" />
+  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg?v=6" alt="sudo make me a sandwich" width="720" />
 </p>
 
 <!-- ═══════════════ 3. INTRO (whoami · roles) ═══════════════ -->
@@ -27,7 +27,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,postgres,mongodb&theme=dark" alt="backend" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=flutter,docker,linux,git,github,vercel,figma,postman&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,electron,docker,linux,git,github,vercel,figma,postman&theme=dark" alt="tools" />
 </p>
 
 ---
@@ -35,11 +35,11 @@
 <!-- ═══════════════ 5. ABOUT ═══════════════ -->
 ### 🧭 About
 
-I build corporate websites, admin dashboards, and mobile apps. Most of the projects below were shipped end-to-end (design → frontend → backend → deployment) for **real businesses**.
+I build corporate websites, admin dashboards, and mobile & desktop apps. Most of the projects below were shipped end-to-end (design → frontend → backend → deployment) for **real businesses**.
 
 ```yaml
 location:   Istanbul · Türkiye 🇹🇷
-focus:      Full-stack web dev · REST API design · mobile deployment
+focus:      Full-stack web dev · REST API design · mobile & desktop apps
 learning:   TypeScript · System design · Secure app development
 motto:      "Code is the most honest way to turn an idea into a product."
 ```

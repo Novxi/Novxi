@@ -25,7 +25,7 @@
     <text x="600" y="86" text-anchor="middle" class="t" font-size="52">Mert Kaya
       <animate attributeName="opacity" values="0;1" dur="1s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
     </text>
-    <text x="600" y="120" text-anchor="middle" class="s" font-size="18">FULL-STACK WEB &amp; MOBILE DEVELOPER
+    <text x="600" y="120" text-anchor="middle" class="s" font-size="18">FULL-STACK · WEB · MOBILE · DESKTOP
       <animate attributeName="opacity" values="0;1" dur="1s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
     </text>
   </g>

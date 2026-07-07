@@ -3,11 +3,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0EA5E9,100:14B8A6&height=200&section=header&text=Mert%20Kaya&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20%26%20Mobil%20Geli%C5%9Ftirici&descSize=20&descAlignY=58&animation=fadeIn" alt="banner" />
 </a>
 
-<!-- ═══════════════ 2. ANIMASYONLU BAŞLIK (daktilo efekti) ═══════════════ -->
+<!-- ═══════════════ 2. ANIMASYONLU BAŞLIK (gömülü Poppins · yumuşak fade) ═══════════════ -->
 <p align="center">
-  <a href="https://github.com/Novxi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=560&lines=Merhaba%2C+ben+Mert+Kaya+%F0%9F%91%8B;Ger%C3%A7ek+m%C3%BC%C5%9Fteriler+i%C3%A7in+%C3%BCr%C3%BCn+geli%C5%9Ftiriyorum;Web+%C2%B7+Mobil+%C2%B7+REST+API+%C2%B7+Sistem+Tasar%C4%B1m%C4%B1;S%C4%B1f%C4%B1rdan+%C3%BCretime%3A+tasar%C4%B1m+%E2%86%92+kod+%E2%86%92+da%C4%9F%C4%B1t%C4%B1m" alt="typing" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg" alt="Merhaba, ben Mert Kaya — Full-Stack Web & Mobil Geliştirici" width="720" />
 </p>
 
 <!-- ═══════════════ 3. GIF (GSAP açılış animasyonu) ═══════════════ -->

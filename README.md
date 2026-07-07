@@ -38,7 +38,7 @@
 I build corporate websites, admin dashboards, and mobile apps. Most of the projects below were shipped end-to-end (design → frontend → backend → deployment) for **real businesses**.
 
 ```yaml
-location:   İstanbul · Türkiye 🇹🇷
+location:   Istanbul · Türkiye 🇹🇷
 focus:      Full-stack web dev · REST API design · mobile deployment
 learning:   TypeScript · System design · Secure app development
 motto:      "Code is the most honest way to turn an idea into a product."

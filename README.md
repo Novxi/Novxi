@@ -23,11 +23,7 @@
 ### 🛠️ Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css&theme=dark" alt="frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,postgres,mongodb&theme=dark" alt="backend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=flutter,electron,docker,linux,git,github,vercel,figma,postman&theme=dark" alt="tools" />
+  <img width="88%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/tech.svg?v=1" alt="Tech stack — React, TypeScript, Node.js, Flutter, Electron and more" />
 </p>
 
 ---

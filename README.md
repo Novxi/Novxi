@@ -5,7 +5,7 @@
 
 <!-- ═══════════════ 2. ANIMASYONLU BAŞLIK (gömülü Poppins · yumuşak fade) ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg" alt="Merhaba, ben Mert Kaya — Full-Stack Web & Mobil Geliştirici" width="720" />
+  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg?v=2" alt="Merhaba, ben Mert Kaya — Full-Stack Web & Mobil Geliştirici" width="720" />
 </p>
 
 <!-- ═══════════════ 3. GIF (GSAP açılış animasyonu) ═══════════════ -->

@@ -10,7 +10,7 @@
 
 <!-- ═══════════════ 3. GIF (GSAP açılış animasyonu) ═══════════════ -->
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.gif?v=6" alt="Kod terminali - fikirden ürüne" />
+  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.gif?v=7" alt="Business Mentor · Advisor · Closer" />
 </p>
 
 <p align="center">

@@ -1,26 +1,26 @@
-<!-- ═══════════════ 1. ÜST BANNER (gömülü · animasyonlu dalga) ═══════════════ -->
+<!-- ═══════════════ 1. TOP BANNER (embedded · animated waves) ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=5" alt="Mert Kaya — Full-Stack Web & Mobil Geliştirici" />
+  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=6" alt="Mert Kaya — Full-Stack Web & Mobile Developer" />
 </p>
 
-<!-- ═══════════════ 2. ANIMASYONLU BAŞLIK (gömülü Poppins · yumuşak fade) ═══════════════ -->
+<!-- ═══════════════ 2. ANIMATED HEADLINE (embedded Poppins · soft fade) ═══════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg?v=3" alt="Merhaba, ben Mert Kaya — Full-Stack Web & Mobil Geliştirici" width="720" />
+  <img src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/typing.svg?v=5" alt="Professionally online since dial-up" width="720" />
 </p>
 
-<!-- ═══════════════ 3. GIF (GSAP açılış animasyonu) ═══════════════ -->
+<!-- ═══════════════ 3. INTRO (whoami · roles) ═══════════════ -->
 <p align="center">
   <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.png?v=2" alt="Business Mentor · Advisor · Closer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Novxi&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=14B8A6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Novxi&label=Profile%20views&color=14B8A6&style=flat" alt="views" />
 </p>
 
 ---
 
-<!-- ═══════════════ 4. TEKNOLOJİLER (Hakkımda'nın üstünde) ═══════════════ -->
-### 🛠️ Kullandığım Teknolojiler
+<!-- ═══════════════ 4. TECH STACK (above About) ═══════════════ -->
+### 🛠️ Tech I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css&theme=dark" alt="frontend" />
@@ -32,24 +32,24 @@
 
 ---
 
-<!-- ═══════════════ 5. HAKKIMDA ═══════════════ -->
-### 🧭 Hakkımda
+<!-- ═══════════════ 5. ABOUT ═══════════════ -->
+### 🧭 About
 
-Kurumsal web siteleri, yönetim panelleri ve mobil uygulamalar geliştiriyorum. Aşağıdaki projelerin çoğu, **gerçek işletmeler için** uçtan uca (tasarım → frontend → backend → dağıtım) tarafımca hayata geçirildi.
+I build corporate websites, admin dashboards, and mobile apps. Most of the projects below were shipped end-to-end (design → frontend → backend → deployment) for **real businesses**.
 
 ```yaml
-konum:        İstanbul · Türkiye 🇹🇷
-odak:         Full-stack web geliştirme · REST API tasarımı · mobil dağıtım
-şu an:        TypeScript · Sistem tasarımı · Güvenli uygulama geliştirme
-felsefe:      "Kod, bir fikri işe yarar bir ürüne dönüştürmenin en dürüst yoludur."
+location:   İstanbul · Türkiye 🇹🇷
+focus:      Full-stack web dev · REST API design · mobile deployment
+learning:   TypeScript · System design · Secure app development
+motto:      "Code is the most honest way to turn an idea into a product."
 ```
 
 ---
 
-<!-- ═══════════════ 6. GÜVENDİĞİM AÇIK KAYNAK ═══════════════ -->
-### 💚 Güvendiğim & Günlük Kullandığım Açık Kaynak
+<!-- ═══════════════ 6. OPEN SOURCE I TRUST ═══════════════ -->
+### 💚 Open Source I Trust & Use Daily
 
-> Ücretli sponsorluğum yok; ama işimi bu ekosistemler üzerine kuruyorum. Her projede güvendiğim araçlar:
+> No paid sponsorships — but I build my work on these ecosystems. The tools I rely on in every project:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,tailwind,docker,linux&theme=dark" alt="stack" />
@@ -57,38 +57,38 @@ felsefe:      "Kod, bir fikri işe yarar bir ürüne dönüştürmenin en dürü
 
 ---
 
-<!-- ═══════════════ 7. İSTATİSTİK + DİLLER (gömülü · gerçek veri) ═══════════════ -->
-### 📊 İstatistikler
+<!-- ═══════════════ 7. STATS + LANGUAGES (embedded · real data) ═══════════════ -->
+### 📊 Stats
 
 <p align="center">
-  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/stats.svg?v=3" alt="İstatistikler ve diller" />
+  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/stats.svg?v=5" alt="Stats and languages" />
 </p>
 
 ---
 
-<!-- ═══════════════ 8. KATKI TAKVİMİ (gömülü · gerçek veri) ═══════════════ -->
-### 📈 Katkı Aktivitesi
+<!-- ═══════════════ 8. CONTRIBUTION CALENDAR (embedded · real data) ═══════════════ -->
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/calendar.svg?v=1" alt="Katkı takvimi" />
+  <img width="92%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/calendar.svg?v=3" alt="Contribution calendar" />
 </p>
 
 ---
 
-<!-- ═══════════════ 9. İLETİŞİM (gömülü · smooth butonlar) ═══════════════ -->
-### 📫 İletişim
+<!-- ═══════════════ 9. CONTACT (embedded · smooth buttons) ═══════════════ -->
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:contact.mertkaya@gmail.com">
-    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-gmail.svg?v=3" alt="E-posta" />
+    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-gmail.svg?v=5" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Novxi">
-    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-github.svg?v=3" alt="GitHub" />
+    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-github.svg?v=5" alt="GitHub" />
   </a>
 </p>
 
-<!-- ═══════════════ 10. ALT DALGA ═══════════════ -->
+<!-- ═══════════════ 10. FOOTER WAVE ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/footer.svg?v=3" alt="footer" />
+  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/footer.svg?v=4" alt="footer" />
 </p>

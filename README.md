@@ -29,16 +29,11 @@
 ---
 
 <!-- ═══════════════ 5. ABOUT ═══════════════ -->
-### 🧭 About
+### 💻 About
 
-I build corporate websites, admin dashboards, and mobile & desktop apps. Most of the projects below were shipped end-to-end (design → frontend → backend → deployment) for **real businesses**.
-
-```yaml
-location:   Istanbul · Türkiye 🇹🇷
-focus:      Full-stack web dev · REST API design · mobile & desktop apps
-learning:   TypeScript · System design · Secure app development
-motto:      "Code is the most honest way to turn an idea into a product."
-```
+<p align="center">
+  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/about.svg?v=1" alt="About — full-stack engineer who designs and builds custom devices for clients" />
+</p>
 
 ---
 

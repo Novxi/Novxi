@@ -66,11 +66,11 @@ felsefe:      "Kod, bir fikri işe yarar bir ürüne dönüştürmenin en dürü
 
 ---
 
-<!-- ═══════════════ 8. SNAKE ANIMASYONU ═══════════════ -->
-### 🐍 Katkı Aktivitesi
+<!-- ═══════════════ 8. KATKI TAKVİMİ (gömülü · gerçek veri) ═══════════════ -->
+### 📈 Katkı Aktivitesi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novxi/Novxi/output/github-contribution-grid-snake-dark.svg?v=4" alt="snake" />
+  <img width="92%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/calendar.svg?v=1" alt="Katkı takvimi" />
 </p>
 
 ---

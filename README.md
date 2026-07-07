@@ -1,6 +1,6 @@
 <!-- ═══════════════ 1. TOP BANNER (embedded · animated waves) ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=7" alt="Mert Kaya — Full-Stack Web · Mobile · Desktop Developer" />
+  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=8" alt="Mert Kaya — Full-Stack Web · Mobile · Desktop Developer" />
 </p>
 
 <!-- ═══════════════ 2. ANIMATED HEADLINE (embedded Poppins · soft fade) ═══════════════ -->
@@ -10,7 +10,7 @@
 
 <!-- ═══════════════ 3. INTRO (whoami · roles) ═══════════════ -->
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.png?v=2" alt="Business Mentor · Advisor · Closer" />
+  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.png?v=3" alt="Business Mentor · Advisor · Closer" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ### 💻 About
 
 <p align="center">
-  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/about.svg?v=1" alt="About — full-stack engineer who designs and builds custom devices for clients" />
+  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/about.svg?v=2" alt="About — full-stack engineer who designs and builds custom devices for clients" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### ⚡ What I Build
 
 <p align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/matrix.svg?v=1" alt="Code · Hardware · Shipped — from idea to reality: web, mobile, desktop & custom devices" />
+  <img width="90%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/matrix.svg?v=2" alt="Code · Hardware · Shipped — from idea to reality: web, mobile, desktop & custom devices" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/stats.svg?v=5" alt="Stats and languages" />
+  <img width="86%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/stats.svg?v=6" alt="Stats and languages" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/calendar.svg?v=3" alt="Contribution calendar" />
+  <img width="92%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/calendar.svg?v=4" alt="Contribution calendar" />
 </p>
 
 ---
@@ -69,11 +69,11 @@
 
 <p align="center">
   <a href="mailto:contact.mertkaya@gmail.com">
-    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-gmail.svg?v=5" alt="Email" />
+    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-gmail.svg?v=6" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Novxi">
-    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-github.svg?v=5" alt="GitHub" />
+    <img height="46" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/btn-github.svg?v=6" alt="GitHub" />
   </a>
 </p>
 

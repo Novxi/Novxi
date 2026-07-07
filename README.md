@@ -10,7 +10,7 @@
 
 <!-- ═══════════════ 3. GIF (GSAP açılış animasyonu) ═══════════════ -->
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.gif?v=3" alt="Mert Kaya - intro animasyonu" />
+  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.gif?v=5" alt="Mert Kaya - intro animasyonu" />
 </p>
 
 <p align="center">

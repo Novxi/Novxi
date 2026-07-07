@@ -1,6 +1,6 @@
 <!-- ═══════════════ 1. ÜST BANNER (gömülü · animasyonlu dalga) ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=3" alt="Mert Kaya — Full-Stack Web & Mobil Geliştirici" />
+  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/banner.svg?v=4" alt="Mert Kaya — Full-Stack Web & Mobil Geliştirici" />
 </p>
 
 <!-- ═══════════════ 2. ANIMASYONLU BAŞLIK (gömülü Poppins · yumuşak fade) ═══════════════ -->
@@ -10,7 +10,7 @@
 
 <!-- ═══════════════ 3. GIF (GSAP açılış animasyonu) ═══════════════ -->
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.gif?v=7" alt="Business Mentor · Advisor · Closer" />
+  <img width="70%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/intro.png?v=1" alt="Business Mentor · Advisor · Closer" />
 </p>
 
 <p align="center">

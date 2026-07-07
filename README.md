@@ -23,7 +23,7 @@
 ### 🛠️ Tech I Use
 
 <p align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/tech.svg?v=1" alt="Tech stack — React, TypeScript, Node.js, Flutter, Electron and more" />
+  <img width="100%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/logoloop.svg?v=1" alt="Tech stack — React, TypeScript, Node.js, Flutter, Electron and more" />
 </p>
 
 ---

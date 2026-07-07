@@ -38,12 +38,10 @@
 ---
 
 <!-- ═══════════════ 6. OPEN SOURCE I TRUST ═══════════════ -->
-### 💚 Open Source I Trust & Use Daily
-
-> No paid sponsorships — but I build my work on these ecosystems. The tools I rely on in every project:
+### ⚡ What I Build
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,tailwind,docker,linux&theme=dark" alt="stack" />
+  <img width="90%" src="https://raw.githubusercontent.com/Novxi/Novxi/main/assets/matrix.svg?v=1" alt="Code · Hardware · Shipped — from idea to reality: web, mobile, desktop & custom devices" />
 </p>
 
 ---
